@@ -23,6 +23,7 @@ http.createServer(function(req, res) {
         <p>I have a deep passion for <strong>computers and technology</strong>.</p>
         <p>My favourite video game is <em>Kingdom Hearts 2 Final Mix</em>.</p>
         <p>My favourite sport is <strong>the UFC</strong>.</p>
+        <p>Edited for week 3.</p>
     </body>
     </html>
     `;
